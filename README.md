@@ -1,6 +1,6 @@
 ### Olá eu sou o Gustavo 👋
 
-- 🔭 Hoje estou trabalhando com BackEnd foco em PHP
+- 🔭 Hoje estou trabalhando como Full Stack, foco em BackEnd PHP
 - 🌱 Eu Estou estudando Laravel
 
 <div>
