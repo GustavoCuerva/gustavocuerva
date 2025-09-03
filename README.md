@@ -1,7 +1,7 @@
 ### Olá eu sou o Gustavo 👋
 
-- 🔭 Hoje estou trabalhando como Full Stack, foco em BackEnd PHP
-- 🌱 Eu Estou estudando Laravel
+- 🔭 Hoje estou trabalhando como Desenvolvedor Back-end, com foro em C#
+- 🌱 Eu estou estudando e me aprofundando cada vez mais no ecosistema .NET
 
 <div>
   <a href="https://github.com/GustavoCuerva">
