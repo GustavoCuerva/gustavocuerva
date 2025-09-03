@@ -1,6 +1,6 @@
 ### Olá eu sou o Gustavo 👋
 
-- 🔭 Hoje estou trabalhando como Desenvolvedor Back-end, com foro em C#
+- 🔭 Hoje estou trabalhando como Desenvolvedor Back-end, com foco em C#
 - 🌱 Eu estou estudando e me aprofundando cada vez mais no ecosistema .NET
 
 <div>
