@@ -1,7 +1,7 @@
-### Olá eu sou o Gustavo 👋
+### Olá, eu sou o Gustavo 👋
 
-- 🔭 Hoje estou trabalhando como Desenvolvedor Back-end, com foco em C#
-- 🌱 Eu estou estudando e me aprofundando cada vez mais no ecosistema .NET
+- 🔭 Atuo como Desenvolvedor Back-end, com foco em C# e .NET
+- 🌱 Estou em constante evolução no ecossistema .NET, com atenção especial a boas práticas, Clean Architecture e testes automatizados
 
 <div>
   <a href="https://github.com/GustavoCuerva">
