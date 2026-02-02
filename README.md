@@ -3,12 +3,6 @@
 - 🔭 Atuo como Desenvolvedor Back-end, com foco em C# e .NET
 - 🌱 Estou em constante evolução no ecossistema .NET, com atenção especial a boas práticas, Clean Architecture e testes automatizados
 
-<div>
-  <a href="https://github.com/GustavoCuerva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocuerva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocuerva&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Gu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gu-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/dotnetcore/dotnetcore-original.svg">
